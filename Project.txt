@@ -1,3 +1,5 @@
 Add_text feature!
 
 Added more text to this file for feature style.
+
+Fixed a bug.
